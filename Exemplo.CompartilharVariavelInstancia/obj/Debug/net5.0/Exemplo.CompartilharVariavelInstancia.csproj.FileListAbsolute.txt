@@ -1,0 +1,16 @@
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelInstancia\bin\Debug\net5.0\Exemplo.CompartilharVariavelInstancia.exe
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelInstancia\bin\Debug\net5.0\Exemplo.CompartilharVariavelInstancia.deps.json
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelInstancia\bin\Debug\net5.0\Exemplo.CompartilharVariavelInstancia.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelInstancia\bin\Debug\net5.0\Exemplo.CompartilharVariavelInstancia.runtimeconfig.dev.json
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelInstancia\bin\Debug\net5.0\Exemplo.CompartilharVariavelInstancia.dll
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelInstancia\bin\Debug\net5.0\Exemplo.CompartilharVariavelInstancia.pdb
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelInstancia\obj\Debug\net5.0\Exemplo.CompartilharVariavelInstancia.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelInstancia\obj\Debug\net5.0\Exemplo.CompartilharVariavelInstancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelInstancia\obj\Debug\net5.0\Exemplo.CompartilharVariavelInstancia.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelInstancia\obj\Debug\net5.0\Exemplo.CompartilharVariavelInstancia.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelInstancia\obj\Debug\net5.0\Exemplo.CompartilharVariavelInstancia.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelInstancia\obj\Debug\net5.0\Exemplo.CompartilharVariavelInstancia.dll
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelInstancia\obj\Debug\net5.0\refint\Exemplo.CompartilharVariavelInstancia.dll
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelInstancia\obj\Debug\net5.0\Exemplo.CompartilharVariavelInstancia.pdb
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelInstancia\obj\Debug\net5.0\Exemplo.CompartilharVariavelInstancia.genruntimeconfig.cache
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelInstancia\obj\Debug\net5.0\ref\Exemplo.CompartilharVariavelInstancia.dll

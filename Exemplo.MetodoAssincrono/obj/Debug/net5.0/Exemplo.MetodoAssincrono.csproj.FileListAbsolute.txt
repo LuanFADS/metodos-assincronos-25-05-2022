@@ -1,0 +1,16 @@
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.MetodoAssincrono\bin\Debug\net5.0\Exemplo.MetodoAssincrono.exe
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.MetodoAssincrono\bin\Debug\net5.0\Exemplo.MetodoAssincrono.deps.json
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.MetodoAssincrono\bin\Debug\net5.0\Exemplo.MetodoAssincrono.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.MetodoAssincrono\bin\Debug\net5.0\Exemplo.MetodoAssincrono.runtimeconfig.dev.json
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.MetodoAssincrono\bin\Debug\net5.0\Exemplo.MetodoAssincrono.dll
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.MetodoAssincrono\bin\Debug\net5.0\Exemplo.MetodoAssincrono.pdb
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.MetodoAssincrono\obj\Debug\net5.0\Exemplo.MetodoAssincrono.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.MetodoAssincrono\obj\Debug\net5.0\Exemplo.MetodoAssincrono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.MetodoAssincrono\obj\Debug\net5.0\Exemplo.MetodoAssincrono.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.MetodoAssincrono\obj\Debug\net5.0\Exemplo.MetodoAssincrono.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.MetodoAssincrono\obj\Debug\net5.0\Exemplo.MetodoAssincrono.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.MetodoAssincrono\obj\Debug\net5.0\Exemplo.MetodoAssincrono.dll
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.MetodoAssincrono\obj\Debug\net5.0\refint\Exemplo.MetodoAssincrono.dll
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.MetodoAssincrono\obj\Debug\net5.0\Exemplo.MetodoAssincrono.pdb
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.MetodoAssincrono\obj\Debug\net5.0\Exemplo.MetodoAssincrono.genruntimeconfig.cache
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.MetodoAssincrono\obj\Debug\net5.0\ref\Exemplo.MetodoAssincrono.dll

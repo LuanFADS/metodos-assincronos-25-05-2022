@@ -1,0 +1,16 @@
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelEstatica\bin\Debug\net5.0\Exemplo.CompartilharVariavelEstatica.exe
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelEstatica\bin\Debug\net5.0\Exemplo.CompartilharVariavelEstatica.deps.json
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelEstatica\bin\Debug\net5.0\Exemplo.CompartilharVariavelEstatica.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelEstatica\bin\Debug\net5.0\Exemplo.CompartilharVariavelEstatica.runtimeconfig.dev.json
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelEstatica\bin\Debug\net5.0\Exemplo.CompartilharVariavelEstatica.dll
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelEstatica\bin\Debug\net5.0\Exemplo.CompartilharVariavelEstatica.pdb
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelEstatica\obj\Debug\net5.0\Exemplo.CompartilharVariavelEstatica.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelEstatica\obj\Debug\net5.0\Exemplo.CompartilharVariavelEstatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelEstatica\obj\Debug\net5.0\Exemplo.CompartilharVariavelEstatica.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelEstatica\obj\Debug\net5.0\Exemplo.CompartilharVariavelEstatica.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelEstatica\obj\Debug\net5.0\Exemplo.CompartilharVariavelEstatica.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelEstatica\obj\Debug\net5.0\Exemplo.CompartilharVariavelEstatica.dll
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelEstatica\obj\Debug\net5.0\refint\Exemplo.CompartilharVariavelEstatica.dll
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelEstatica\obj\Debug\net5.0\Exemplo.CompartilharVariavelEstatica.pdb
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelEstatica\obj\Debug\net5.0\Exemplo.CompartilharVariavelEstatica.genruntimeconfig.cache
+C:\Users\facec.lab04\source\repos\Facec.Programacao.Async\Exemplo.CompartilharVariavelEstatica\obj\Debug\net5.0\ref\Exemplo.CompartilharVariavelEstatica.dll

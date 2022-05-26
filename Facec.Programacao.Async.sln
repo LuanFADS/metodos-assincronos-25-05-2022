@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Exemplo", "01 - Exemplo", "{D0BA7E13-EE47-4537-85E1-ED61C5987BB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo.Threads", "Exemplo.Threads\Exemplo.Threads.csproj", "{6551C66C-F3D0-406F-9D60-0544A71DB4E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Exemplo", "02 - Exemplo", "{CFB3369A-3D10-40A4-8F54-688B71283BE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo.CompartilharVariavelEstatica", "Exemplo.CompartilharVariavelEstatica\Exemplo.CompartilharVariavelEstatica.csproj", "{E37E6A34-370D-43B5-884B-91491C472F30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Exemplo", "03 - Exemplo", "{7FBA73A4-B751-4B1C-962D-D0188C3998D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo.CompartilharVariavelInstancia", "Exemplo.CompartilharVariavelInstancia\Exemplo.CompartilharVariavelInstancia.csproj", "{F5FE2C39-8257-4AA2-9073-A77295EE6433}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Exemplo", "04 - Exemplo", "{002123F3-50EF-4512-A1F6-B033E5A2857C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo.MetodoAssincrono", "Exemplo.MetodoAssincrono\Exemplo.MetodoAssincrono.csproj", "{E51825B7-A5D0-4DF7-BA83-939610F74C88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - Exemplo", "05 - Exemplo", "{72FC0651-B72D-4267-943B-5AB128B667FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo.Task", "Exemplo.Task\Exemplo.Task.csproj", "{6E635895-0A10-4C44-AD31-6BC52CBB6B28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6551C66C-F3D0-406F-9D60-0544A71DB4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6551C66C-F3D0-406F-9D60-0544A71DB4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6551C66C-F3D0-406F-9D60-0544A71DB4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6551C66C-F3D0-406F-9D60-0544A71DB4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E37E6A34-370D-43B5-884B-91491C472F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37E6A34-370D-43B5-884B-91491C472F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37E6A34-370D-43B5-884B-91491C472F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37E6A34-370D-43B5-884B-91491C472F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5FE2C39-8257-4AA2-9073-A77295EE6433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FE2C39-8257-4AA2-9073-A77295EE6433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FE2C39-8257-4AA2-9073-A77295EE6433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FE2C39-8257-4AA2-9073-A77295EE6433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E51825B7-A5D0-4DF7-BA83-939610F74C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51825B7-A5D0-4DF7-BA83-939610F74C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51825B7-A5D0-4DF7-BA83-939610F74C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51825B7-A5D0-4DF7-BA83-939610F74C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E635895-0A10-4C44-AD31-6BC52CBB6B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E635895-0A10-4C44-AD31-6BC52CBB6B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E635895-0A10-4C44-AD31-6BC52CBB6B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E635895-0A10-4C44-AD31-6BC52CBB6B28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6551C66C-F3D0-406F-9D60-0544A71DB4E8} = {D0BA7E13-EE47-4537-85E1-ED61C5987BB1}
+		{E37E6A34-370D-43B5-884B-91491C472F30} = {CFB3369A-3D10-40A4-8F54-688B71283BE5}
+		{F5FE2C39-8257-4AA2-9073-A77295EE6433} = {7FBA73A4-B751-4B1C-962D-D0188C3998D9}
+		{E51825B7-A5D0-4DF7-BA83-939610F74C88} = {002123F3-50EF-4512-A1F6-B033E5A2857C}
+		{6E635895-0A10-4C44-AD31-6BC52CBB6B28} = {72FC0651-B72D-4267-943B-5AB128B667FD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F604D8E6-6B1A-411E-A8FB-2E86D8352D8E}
+	EndGlobalSection
+EndGlobal

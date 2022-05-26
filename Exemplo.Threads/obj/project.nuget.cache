@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "7lxbzya7hCQtb9z+dw+xgOCHy23WQ9+S6lbwpFUP7BLjFWnJ5Hv3fFX1lpOi4s/KbQIaXZt53Y1APRGMuyMzqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\facec.lab04\\source\\repos\\Facec.Programacao.Async\\Exemplo.Threads\\Exemplo.Threads.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.17\\microsoft.aspnetcore.authorization.5.0.17.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.17\\microsoft.aspnetcore.components.5.0.17.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.17\\microsoft.aspnetcore.components.analyzers.5.0.17.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.17\\microsoft.aspnetcore.metadata.5.0.17.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
